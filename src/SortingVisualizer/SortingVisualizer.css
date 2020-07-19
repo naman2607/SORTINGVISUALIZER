@@ -1,0 +1,25 @@
+
+body {background-color: lightslategray}
+.array-container {
+  position: absolute;
+  left: 100px;
+ /* top: 100px;*/
+
+}
+
+.array-bar {
+  width: 10px;
+  display: inline-block;
+  margin: 0 1px;
+}
+  h1 {
+    display: block;
+    font-size: 2em;
+    margin-top: 0.67em;
+    margin-bottom: 0.67em;
+    margin-left: 0;
+    margin-right: 0;
+    font-weight: bold;
+    background-color:pink;
+  }
+  
